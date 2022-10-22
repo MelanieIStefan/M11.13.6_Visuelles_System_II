@@ -1,3 +1,24 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Learning Objectvies
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+den Aufbau der Retina beschreiben
+die Rolle des Pigmentepithels erläutern
+die molekulare und zellulären Grundlagen der Photorezeption erläutern
+photopisches und skotopisches Sehen beschreiben und erklären
+die Physiologie des Farbsehens beschreiben
+die Anatomie der Sehbahn beschreiben
+die Rolle von kortikalen Regionen beim Sehen beschreiben
+die Rolle efferenter Verbindungen beim Sehen erläutern
+die Grundlagen des Tiefensehens erklären
+
+Anomalien im Farbseehn benennen und erklären
+Perimetrie beschreiben und Anwendungen erklären
+Ausfälle des Gesichtsfeldes erklären und beschreiben
+Diplopie definieren und erklären
+Strabismus definieren und erklären
 
 
 
@@ -6,7 +27,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-Die Studierenden kennen den Aufbau der Retina sowie den Transduktionsprozess  über  Photopigmente  (Konformationsänderungen;  Interaktion mit Pigmentepithel), photoneninduzierte Leitfähigkeitsänderungen  der  Rezeptormembran,  photochemische  Adaptation,  photopisches  und  skotopisches  Sehen.  Sie  verstehen  die  Physiologie  des Farbsehens  sowie  Farbanomalien  (Rotblindheit,  Grünblindheit,  Blau-violett-blindheit)  und  Farbenschwäche.  Die  Studierenden  erläutern ausgehend von den anatomischen Grundlagen der Augen- und Sehbahn-Anatomie das Thema Gesichtsfeld mit Perimetrie, Skotome, blinder Fleck  sowie  Gesichtsfeldausfällen.  Der  Verlauf  der  Sehbahn  mit Chiasma  opticum,  Verschaltungen  im  Corpus  geniculatum  laterale, Colliculus superior und prätektaler Region kennen sie. Die Verschaltung der Sehbahn und die efferente Kontrolle durch den visuellen Kortex  inkl.  der  Zuordnung  korrespondierender  Netzhautstellen  können von  den  Studierenden  dargelegt  werden.  Pathophysiologische  Aspekte der Diplopie, Querdisparation, zeitlichen Disparation, monokulares  Tiefensehen,  Strabismus  und  Wahrnehmung  von  Entfernungen werden von ihnen erörtert.t
+Die Studierenden kennen den Aufbau der Retina sowie den Transduktionsprozess  über  Photopigmente  (Konformationsänderungen;  Interaktion mit Pigmentepithel), photoneninduzierte Leitfähigkeitsänderungen  der  Rezeptormembran,  photochemische  Adaptation,  photopisches  und  skotopisches  Sehen.  Sie  verstehen  die  Physiologie  des Farbsehens  sowie  Farbanomalien  (Rotblindheit,  Grünblindheit,  Blau-violett-blindheit)  und  Farbenschwäche.  Die  Studierenden  erläutern ausgehend von den anatomischen Grundlagen der Augen- und Sehbahn-Anatomie das Thema Gesichtsfeld mit Perimetrie, Skotome, blinder Fleck  sowie  Gesichtsfeldausfällen.  Der  Verlauf  der  Sehbahn  mit Chiasma  opticum,  Verschaltungen  im  Corpus  geniculatum  laterale, Colliculus superior und prätektaler Region kennen sie. Die Verschaltung der Sehbahn und die efferente Kontrolle durch den visuellen Kortex  inkl.  der  Zuordnung  korrespondierender  Netzhautstellen  können von  den  Studierenden  dargelegt  werden.  Pathophysiologische  Aspekte der Diplopie, Querdisparation, zeitlichen Disparation, monokulares  Tiefensehen,  Strabismus  und  Wahrnehmung  von  Entfernungen werden von ihnen erörtert.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -156,7 +177,92 @@ Kapitel 57: Die Netzhaut
 
         57.2.2 Phototransduktion
             Sehfarbstoffe
-            Zerfall der Sehfarbst
+            Zerfall der Sehfarbstoffe nach Lichtabsoprtion
+            1. Rhodopsin-Zyklus
+            2. Transducin-Zyklus und 3. PDE-Zyklus
+            4. cGMP-Zyklus
+            5. Ca++-Zyklus
+
+        57.2.3 Rezeptive Felder der Netzhaut
+            Definition und Funktion
+            Bipolarzellen
+            Horizontalzellen
+            Amakrine Zellen
+            Ganglienzellen
+            Korrelation von neuronaler Aktivierung und Wahrnehmung
+            Helligkeitskontrast
+        
+        57.2.4 Klassen retinaler Ganglienzellen
+
+    57.3 Hell- und Dunkeladaptation
+        Helligkeitskonstanz
+        Dunkeladaptation
+        Umschalten vom photopischen Zapfensehen zum skotopischen Stäbchensehen
+        Helladaptation
+        Blendung
+        Sukzessivkontrast
+        Lichtabhängigkeit der lateralen Hemmung
+        Pupillenreaktion
+        
+        57.3.1 Zeitliche Übertragungseigenschaften
+            Wahrnehmung hochfrequenter Lichtreize
+            Flimmerfusionsfrequenz
+            Brücke-Bartley-Effekt
+
+
+    57.4 Sehschärfe (Visus)
+        Definition und Bestimmung der Sehschärfe
+        Physiologische Grundlagen der Sehschärfe
+    
+
+
+Kapitel 58: Sehbahn und Sehrinde
+
+    58.1 Striatäre Sehbahn
+
+        58.1.1  Signaltransport und Verarbeitung vom Auge zur Sehrinde
+            Sehnerv und Tractus opticus
+            Corpus geniculatum  laterale
+            Sehstrahlung
+            Retinotopie
+
+        58.1.2 Gesichtsfeld
+            Gesichtsfelder und Blickfeld
+            Perimetrie
+            Gesichtsfeldausfälle (Skotome)
+        
+        58.1.3 Parallele Signalverarbeitung
+            Parallelverarbeitung
+            Die extrastriäre Sehbahn
+            
+
+    58.2 Die Sehrinde
+        
+        58.2.1 Die primäre Sehrinde (V1)
+            Funktionelle Anatomie
+            Dominanzsäulen
+            Orientierungssäulen
+            Projektionen
+            Eigenschaften rezeptiver Felder
+            Einfache rezeptive Felder
+            Komplexe rezeptive Felder
+            Endhemmung und hyperkomplexe rezeptive Felder
+            Farbspezifische Zellen
+            
+        58.2.2 Die extrastriatäre okzipitale Sehrinde
+            Area V2
+            Area V3
+
+
+Kapitel 59: Höhere visuelle Leistungen
+    
+    59.1 Was und Wo - Wahrnehmen und Handeln
+
+        59.1.1 Getrennete Verarbeitungswege führen zu kognitiven visuellen Funktionen
+            Bildkonstruktion im Gehirn
+
+
+    
 
 
 
