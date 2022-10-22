@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg192"
+   width="778.68781"
+   height="377.03317"
+   viewBox="0 0 778.6878 377.03318"
+   sodipodi:docname="wahrnehmungsprozess_ohne_beispiel_ab_sensor.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:export-filename="wahrnehmungsprozess.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs196">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2422"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2408"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2346"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2332"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2318"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1907"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview194"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.69428936"
+     inkscape:cx="474.58599"
+     inkscape:cy="222.5297"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g198"
+     showguides="false" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g198"
+     transform="translate(217.36951,-93.435669)">
+    <g
+       id="g35031"
+       transform="translate(31.13304,-69.388519)"
+       style="fill:#000000;fill-opacity:0.2">
+      <rect
+         style="fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:0.756"
+         id="rect33517"
+         width="172.24725"
+         height="72.643387"
+         x="-247.74438"
+         y="162.82419"
+         rx="3"
+         ry="5.6830273" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#daa49a;fill-opacity:0.318967;stroke:#0000eb;stroke-width:0.756"
+       x="-148.89307"
+       y="136.54271"
+       id="text360"><tspan
+         sodipodi:role="line"
+         id="tspan358"
+         x="-148.89307"
+         y="136.54271"
+         style="font-size:18.6667px;fill:#000000;fill-opacity:1;stroke:none">Reiz</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="m 470.20896,266.32662 c 0.0217,6.60456 0.0433,13.2081 0.065,19.81066"
+       id="path2404"
+       inkscape:path-effect="#path-effect2408"
+       inkscape:original-d="m 470.20896,266.32662 c 0.0227,6.60456 0.0443,13.2081 0.065,19.81066"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="m 470.20896,366.32662 c 0.0217,6.60456 0.0433,13.2081 0.065,19.81066"
+       id="path2418"
+       inkscape:path-effect="#path-effect2422"
+       inkscape:original-d="m 470.20896,366.32662 c 0.0227,6.60456 0.0443,13.2081 0.065,19.81066"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g35086"
+       transform="matrix(1.010731,0,0,1.010731,-183.3175,117.80267)">
+      <rect
+         style="fill:#93a8ac;fill-opacity:1;stroke:none;stroke-width:0.756"
+         id="rect31323"
+         width="172.24725"
+         height="72.643387"
+         x="564.48267"
+         y="175.36143"
+         rx="3"
+         ry="5.6830273" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#daa49a;fill-opacity:0.318967;stroke:#0000eb;stroke-width:0.756"
+         x="583.1449"
+         y="218.68314"
+         id="text1140"><tspan
+           sodipodi:role="line"
+           id="tspan1138"
+           x="583.1449"
+           y="218.68314"
+           style="font-size:18.6667px;fill:#000000;fill-opacity:1;stroke:none">Sinneseindruck</tspan></text>
+    </g>
+    <g
+       id="g35099"
+       transform="matrix(1.010731,0,0,1.010731,-410.36061,199.51302)">
+      <rect
+         style="fill:#93a8ac;fill-opacity:1;stroke:none;stroke-width:0.756"
+         id="rect32785"
+         width="172.24725"
+         height="72.643387"
+         x="785.15771"
+         y="195.43567"
+         rx="3"
+         ry="5.6830273" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#daa49a;fill-opacity:0.318967;stroke:#0000eb;stroke-width:0.756"
+         x="805.80792"
+         y="236.6107"
+         id="text1144"><tspan
+           sodipodi:role="line"
+           id="tspan1142"
+           x="805.80792"
+           y="236.6107"
+           style="font-size:18.6667px;fill:#000000;fill-opacity:1;stroke:none">Wahrnehmung</tspan></text>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="m -130.54921,165.5215 c 0.0217,6.60456 0.0433,13.2081 0.065,19.81066"
+       id="path1905"
+       inkscape:path-effect="#path-effect1907"
+       inkscape:original-d="m -130.54921,165.5215 c 0.0227,6.60456 0.0443,13.2081 0.065,19.81066"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:0.756"
+       id="rect33519"
+       width="172.24725"
+       height="72.643387"
+       x="-217.36951"
+       y="194.24078"
+       rx="3"
+       ry="5.6830273" />
+    <rect
+       style="fill:#f5e960;fill-opacity:1;stroke:none;stroke-width:0.756"
+       id="rect35051"
+       width="172.24725"
+       height="72.643387"
+       x="-16.864063"
+       y="194.24078"
+       rx="3"
+       ry="5.6830273" />
+    <rect
+       style="fill:#f5e960;fill-opacity:1;stroke:none;stroke-width:0.756"
+       id="rect35060"
+       width="172.24725"
+       height="72.643387"
+       x="183.64139"
+       y="194.24078"
+       rx="3"
+       ry="5.6830273" />
+    <g
+       id="g35081"
+       transform="translate(0.43927493,-1.1201748)">
+      <rect
+         style="fill:#f5e960;fill-opacity:1;stroke:none;stroke-width:0.756"
+         id="rect35062"
+         width="172.24725"
+         height="72.643387"
+         x="383.70755"
+         y="195.36096"
+         rx="3"
+         ry="5.6830273" />
+      <text
+         xml:space="preserve"
+         style="font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#daa49a;fill-opacity:0.318967;stroke:#0000eb;stroke-width:0.756"
+         x="469.83118"
+         y="215.34929"
+         id="text1136"><tspan
+           sodipodi:role="line"
+           id="tspan1134"
+           x="469.83118"
+           y="215.34929"
+           style="font-size:18.6667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none">Sensorische</tspan><tspan
+           sodipodi:role="line"
+           x="469.83118"
+           y="238.68266"
+           style="font-size:18.6667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan1152">Zentren im</tspan><tspan
+           sodipodi:role="line"
+           x="469.83118"
+           y="262.01605"
+           style="font-size:18.6667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan1154">Gehirn</tspan><tspan
+           sodipodi:role="line"
+           x="469.83118"
+           y="285.34943"
+           style="font-size:18.6667px;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan1156" /></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#daa49a;fill-opacity:0.318967;stroke:#0000eb;stroke-width:0.756"
+       x="-132.01122"
+       y="223.74913"
+       id="text1124"><tspan
+         sodipodi:role="line"
+         id="tspan1122"
+         x="-132.01122"
+         y="223.74913"
+         style="font-size:18.6667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none">Reizleitender</tspan><tspan
+         sodipodi:role="line"
+         x="-132.01122"
+         y="247.0825"
+         style="font-size:18.6667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         id="tspan1146">Apparat</tspan><tspan
+         sodipodi:role="line"
+         x="-132.01122"
+         y="270.41589"
+         style="font-size:18.6667px;fill:#000000;fill-opacity:1;stroke:none"
+         id="tspan1148" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#daa49a;fill-opacity:0.318967;stroke:#0000eb;stroke-width:0.756"
+       x="68.307564"
+       y="223.41313"
+       id="text1128"><tspan
+         sodipodi:role="line"
+         x="68.307564"
+         y="223.41313"
+         style="font-size:18.6667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         id="tspan1991">Sensor/</tspan><tspan
+         sodipodi:role="line"
+         x="68.307564"
+         y="246.74651"
+         style="font-size:18.6667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         id="tspan1995">Rezeptor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#daa49a;fill-opacity:0.318967;stroke:#0000eb;stroke-width:0.756"
+       x="269.76498"
+       y="225.94247"
+       id="text1132"><tspan
+         sodipodi:role="line"
+         x="269.76498"
+         y="225.94247"
+         style="font-size:18.6667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         id="tspan1150">Afferente</tspan><tspan
+         sodipodi:role="line"
+         x="269.76498"
+         y="249.27585"
+         style="font-size:18.6667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         id="tspan2833">Nerven</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="m -45.631578,230.62397 c 6.604563,-0.0217 13.208103,-0.0433 19.81066,-0.065"
+       id="path2314"
+       inkscape:path-effect="#path-effect2318"
+       inkscape:original-d="m -45.631578,230.62397 c 6.60456,-0.0227 13.2081,-0.0443 19.81066,-0.065"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="m 154.87387,230.62397 c 6.60456,-0.0217 13.2081,-0.0433 19.81066,-0.065"
+       id="path2328"
+       inkscape:path-effect="#path-effect2332"
+       inkscape:original-d="m 154.87387,230.62397 c 6.60456,-0.0227 13.2081,-0.0443 19.81066,-0.065"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="m 355.37931,230.62397 c 6.60456,-0.0217 13.2081,-0.0433 19.81066,-0.065"
+       id="path2342"
+       inkscape:path-effect="#path-effect2346"
+       inkscape:original-d="m 355.37931,230.62397 c 6.60456,-0.0227 13.2081,-0.0443 19.81066,-0.065"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
