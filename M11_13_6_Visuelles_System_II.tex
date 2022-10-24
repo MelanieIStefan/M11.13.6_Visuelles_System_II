@@ -345,17 +345,77 @@ Verantwortlich für Farbensehen \\
 
 %% Phototransduktion 12-23
 
-% \begin{frame}{Phototransduktion}
+\begin{frame}{Phototransduktion}
 
-% Photorezeptor-Zellen (Stäbchen und Zapfen) sind bei Dunkelheit depolarisiert (über stets aktive cGMP-gesteuerte Kationenkanäle): Dunkelstrom \\[1cm]
+Photorezeptor-Zellen (Stäbchen und Zapfen) sind bei Dunkelheit depolarisiert (über stets aktive cGMP-gesteuerte Kationenkanäle): Dunkelstrom \\[0.5cm]
 
-% Bei Lichteinwirkung:  \\
+
+\pause
+\begin{columns}[c]
+
+\begin{column}{5cm}
+Bei Lichteinwirkung: 11-cis-Retinal (Teil des Rhodopsin-Komplexes) wird umgewandelt in all-trans-Retinal. Dadurch wird das Rhodopsin aktiviert.
+
+\end{column}
+
+\begin{column}{6cm}
+\begin{center}
+    \includegraphics[width=\textwidth]{1415_Retinal_Isomers.jpg}
+\end{center}
+
+\end{column}
+
+
+\end{columns}
+
+
+
+    
+\end{frame}
+
+\begin{frame}{Phototransduktion}
+
+Aktivierungskaskade: Aktiviertes Rhodopsin \(\rightarrow\) Transducin (G-Protein) \(\rightarrow\) Phosphodiesterase \(\rightarrow\) Hydrolysierung von cGMP zu 5'GMP.  \\[0.5 cm]
+
+Aber was hat cGMP gemacht? \pause cGMP aktiviert die cGMP-gesteuerten Ionenkanäle (Dunkelstrom). Ohne cGMP werden diese Kanäle geschlossen, es kommt zu einer Hyperpolarisation der Membran (Inaktivierung der Zelle)
+
+\begin{center}
+    \includegraphics[width=\textwidth]{Phototransduction.png}
+\end{center}
+      
+\end{frame}
+
+
+\begin{frame}{"Recycling"}
+
+
+\begin{itemize}
+    \item 
+    Die an der Phototransduktion beteiligten Moleküle müssen wieder in ihren Ausgangszustand zurückgeführt werden können, damit eine neue Signalkaskade beginnen kann. 
+\item
+Dies passiert zum Teil (Umwandlung von all-trans-Retinal in 11-cis-Retinal) im Pigmentepithel. 
+\item
+Aktiviertes Rhodopsin wird durch die Wirkung von R*-Kinase inaktiviert. Dieser Vorgang wird bei hohen Calcium-Konzentrationen gehemmt. 
+\item
+Durch Verzögern oder Verschnellern des Recycling-Prozesses kann kontrolliert werden, wie viele Moleküle für die Phototransduktion zur Verfügung stehen und daher, wie schnell die Phototransduktion läuft. 
+
+\end{itemize}
+
 
 
 
 
     
-% \end{frame}
+\end{frame}
+
+
+\begin{frame}{Wie geht es weiter?}
+
+\begin{center}
+    \includegraphics[width=\textwidth]{Retina_de.png}
+\end{center}
+
+\end{frame}
 
 
 %% Retinale Signalverarbeitung: Bipoalarzellen 28-49
@@ -440,11 +500,56 @@ Es gibt On- und Off-Ganglienzellen, analog zu den On- und Off-Bipolarzellen
 \end{frame}
 
 
+%% IMPP Frage zu Ganglienzellen
+\begin{frame}{IMPP Frage}
+
+Welche der folgenden Aussagen zu retinalen Ganglienzellen trifft charakteristischerweise zu?
+
+\begin{description}
+\item[A.] Off-Ganglienzellen erhalten Signale direkt von Bipolarzellen, die über ionotrope Glutamatrezeptoren direkt von Zapfen depolarisiert werden. %% richtig
+\item[B.] Off-Ganglienzellen erhalten Signale direkt von Bipolarzellen, die über metabotrope Glutamatrezeptoren direkt von Zapfen hyperpolarisiert werden. 
+\item[C.] Off-Ganglienzellen erhalten Signale direkt von Zapfen, die bei Belichtung vermehrt GABA freisetzen.
+\item[D.] Off-Ganglienzellen erhalten Signale direkt von Zapfen, die bei Belichtung vermehrt Glutamat freisetzen.
+\item[E.] Off-Ganglienzellen erhalten Signale direkt von Zapfen, die durch Belichtung depolarisiert werden.
+\end{description}
+
+    
+\end{frame}
+
+%% Auflösung: Bild retina 
+
+
+\begin{frame}{IMPP Frage}
+\begin{center}
+    \includegraphics[width=\textwidth]{Retina_de.png}
+\end{center}
+\end{frame}
+
+
+%% Auflösung: Bild on/off ganglien
+\begin{frame}{IMPP Frage}
+\begin{center}
+    \includegraphics[width=\textwidth]{on_off_bipolarzellen.png}
+\end{center}
+
+Off-Ganglienzellen erhalten Signale direkt von Bipolarzellen, die  über ionotrope Glutamatrezeptoren direkt von Zapfen depolarisiert werden.
+
+\end{frame}
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%% Sehen bei Tag und Nacht: Farbensehen 24-27, Adaptation 50-54
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% Farbensehen
+
+\begin{frame}{Aber wir wollten ja noch über Farben reden}
+
+\begin{center}
+    \includegraphics[width=\textwidth]{robert-katzki-jbtfM0XBeRc-unsplash.jpg}
+\end{center}
+    
+\end{frame}
 
 \begin{frame}{Warum ermöglichen Zapfen das Farbensehen?}
 
@@ -532,6 +637,16 @@ Wir erinnern uns: Stäbchen sind: \dots
 
 \begin{frame}{Hell-Dunkel Adaptation beruht auf mehreren Prozessen}
 
+\begin{itemize}
+    \item 
+    Pupillenreflex
+\item
+Veränderung der Signalkaskaden, z.B. längere Lebenszeit von aktiviertem Metarhodopsin
+\item
+Umschalten von Zapfen-System auf Stäbchen System (bei Licht werden Stäbchen-Amakrine von Zapfen-Amakrinen gehemmt; diese Hemmung wird bei Dunkelheit aufgehoben)
+\item
+Vergrößerung der rezeptiven Felder (geht auf Kosten von Sehschärfe, bewerkstelligt aber größere Sensitivität)
+\end{itemize}
 
     
 \end{frame}
@@ -540,7 +655,34 @@ Wir erinnern uns: Stäbchen sind: \dots
 \begin{frame}{Hell-Dunkel Adaptation beruht auf mehreren Prozessen}
 
 \begin{center}
-    \includegraphics[width=\textwidth{}
+    \includegraphics[width=\textwidth]{Hdadaptrp.png}
+    \end{center}
+    
+\end{frame}
+
+
+%% IMPP Frage, Einfügen an geeignetem ort
+
+\begin{frame}{IMPP Frage}
+
+Welche Aussage zur Wellenlänge (in nm) des Absorptionsmaximums der Stäbchen in der Netzhaut trifft typischerweise zu?
+
+\begin{description}
+\item[A.] Sie ist größer als die der Grünzapfen (M-Zapfen)
+\item[B.] Sie ist größer als die der Rotzapfen (L-Zapfen) 
+\item[C.] Sie ist kleiner als die der Blauzapfen (K-Zapfen) 
+\item[D.] Sie liegt zwischen der der Blauzapfen (K-Zapfen) und der der Grünzapfen (M-Zapfen) %% richtig
+\item[E.] Sie liegt zwischen der der Grünzapfen (M-Zapfen) und der der Rotzapfen (L-Zapfen) 
+\end{description}
+
+    
+\end{frame}
+
+%% Auflösung: Bild Cone-response.svg
+\begin{frame}{IMPP Frage}
+    
+    \begin{center}
+        \includegraphics[width=\textwidth]{Cone-response-de.png}
     \end{center}
     
 \end{frame}
@@ -549,42 +691,6 @@ Wir erinnern uns: Stäbchen sind: \dots
 
 
 
-
-%% IMPP Frage zu Ganglienzellen
-\begin{frame}{IMPP Frage}
-
-Welche der folgenden Aussagen zu retinalen Ganglienzellen trifft charakteristischerweise zu?
-
-\begin{description}
-\item[A.] Off-Ganglienzellen erhalten Signale direkt von Bipolarzellen, die über ionotrope Glutamatrezeptoren direkt von Zapfen depolarisiert werden. %% richtig
-\item[B.] Off-Ganglienzellen erhalten Signale direkt von Bipolarzellen, die über metabotrope Glutamatrezeptoren direkt von Zapfen hyperpolarisiert werden. 
-\item[C.] Off-Ganglienzellen erhalten Signale direkt von Zapfen, die bei Belichtung vermehrt GABA freisetzen.
-\item[D.] Off-Ganglienzellen erhalten Signale direkt von Zapfen, die bei Belichtung vermehrt Glutamat freisetzen.
-\item[E.] Off-Ganglienzellen erhalten Signale direkt von Zapfen, die durch Belichtung depolarisiert werden.
-\end{description}
-
-    
-\end{frame}
-
-%% Auflösung: Bild retina 
-
-
-\begin{frame}{IMPP Frage}
-\begin{center}
-    \includegraphics[width=\textwidth]{Retina_de.png}
-\end{center}
-\end{frame}
-
-
-%% Auflösung: Bild on/off ganglien
-\begin{frame}{IMPP Frage}
-\begin{center}
-    \includegraphics[width=\textwidth]{on_off_bipolarzellen.png}
-\end{center}
-
-Off-Ganglienzellen erhalten Signale direkt von Bipolarzellen, die  über ionotrope Glutamatrezeptoren direkt von Zapfen depolarisiert werden.
-
-\end{frame}
 
 
 
@@ -875,32 +981,6 @@ Tiefensehen beruht auf mehreren Strategien:
 
 
 
-%% IMPP Frage, Einfügen an geeignetem ort
-
-\begin{frame}{IMPP Frage}
-
-Welche Aussage zur Wellenlänge (in nm) des Absorptionsmaximums der Stäbchen in der Netzhaut trifft typischerweise zu?
-
-\begin{description}
-\item[A.] Sie ist größer als die der Grünzapfen (M-Zapfen)
-\item[B.] Sie ist größer als die der Rotzapfen (L-Zapfen) 
-\item[C.] Sie ist kleiner als die der Blauzapfen (K-Zapfen) 
-\item[D.] Sie liegt zwischen der der Blauzapfen (K-Zapfen) und der der Grünzapfen (M-Zapfen) %% richtig
-\item[E.] Sie liegt zwischen der der Grünzapfen (M-Zapfen) und der der Rotzapfen (L-Zapfen) 
-\end{description}
-
-    
-\end{frame}
-
-%% Auflösung: Bild Cone-response.svg
-\begin{frame}{IMPP Frage}
-    
-    \begin{center}
-        \includegraphics[width=\textwidth]{Cone-response-de.png}
-    \end{center}
-    
-\end{frame}
-
 
 
 
@@ -1020,6 +1100,10 @@ Strabismus definieren und erklären
 \begin{itemize}
 
 \item
+Architektonische Struktur in bunten Farben. Photo by \href{https://unsplash.com/@ro_ka?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText}{Robert Katzki} on \href{https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText}{Unsplash}
+  
+
+\item
 3D-Brille. Von Oliver Olschewski aus 3D-Foto-Shop, CC BY-SA 3.0 de, \url{https://commons.wikimedia.org/w/index.php?curid=16036543}
 
 \item
@@ -1073,7 +1157,14 @@ Korrektur von Kurzsichtigkeit mithilfe einer Streulinse. By Gumenyuk I.S. - Own 
 Luftballons mit frohen und traurigen Smileys. Photo by \href{https://unsplash.com/@artbyhybrid?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText}{Hybrid} on \href{https://unsplash.com/s/photos/feedback?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText}{Unsplash}
 
 \item
+Opsin- und Retinalzyklus. By OpenStax College - Anatomy &amp; Physiology, Connexions Web site. \url{http://cnx.org/content/col11496/1.6/}, Jun 19, 2013., CC BY 3.0, \url{https://commons.wikimedia.org/w/index.php?curid=30148001}
+
+\item
 Perimetrische Untersuchung. Sej994, CC BY-SA 4.0 \url{https://creativecommons.org/licenses/by-sa/4.0}, via Wikimedia Commons
+
+
+\item
+Phototransduktion. Jason J. Corneveaux, wiki user: Caddymob, CC BY 3.0 \url{https://creativecommons.org/licenses/by/3.0}, via Wikimedia Commons
 
 \item
 Regionen des Cortex (die Sehrinde ist in gelb eingezeichnet). Von Henry Vandyke Carter - Henry Gray (1918) Anatomy of the Human Body (See "Buch" section below)Bartleby.com: Gray's Anatomy, Tafel 756, Gemeinfrei, \url{https://commons.wikimedia.org/w/index.php?curid=541602}
